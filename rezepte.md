@@ -154,7 +154,7 @@ In nur 5 Minuten kannst du aus wenigen Zutaten ein Schokoladeneis komplett ohne 
 |     |     |
 | --- | --- |
 | 500 g | Dinkel, fein gemahlen |
-| 375 ml | Wasser |
+| 350 ml | Wasser |
 | 1 Pkg | Trockenhefe |
 | 10 g | Salz |
 | 75 g | Sonnenblumenkerne |
